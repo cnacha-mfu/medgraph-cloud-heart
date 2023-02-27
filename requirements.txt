@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+flask
+joblib
+google
+google-cloud
+google-cloud-storage
+shap
